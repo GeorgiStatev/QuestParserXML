@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<QuestDB>
+
+<Quest>
+<QuestTitle> Delivery to Lion's Pride Inn </QuestTitle>
+<QuestText> I have these samples for the warlock who's located inside the inn on the crossroads in Elwynn Forest.</QuestText>
+<QuestRewardGold> 0 gold, 2 silver, 0 copper </QuestRewardGold>
+<QuestRewardItem>  </QuestRewardItem>
+<Experience> 240 </Experience>
+</Quest>
+
+<Quest>
+  <QuestTitle> A bunch of candles! </QuestTitle>
+  <QuestText> Go and hunt down those kobolds. They have candles stolen from my inn. </QuestText>
+  <QuestRewardGold> 0 gold, 3 silver, 25 copper </QuestRewardGold>
+  <QuestRewardItem> Candle Stick </QuestRewardItem>
+  <Experience> 560 </Experience>
+</Quest>
+
+<Quest>
+  <QuestTitle> Of swords and axes </QuestTitle>
+  <QuestText> These damn gnolls have been attacking the nearby farmlands. Take care of them! </QuestText>
+  <QuestRewardGold> 0 gold, 5 silver, 50 copper</QuestRewardGold>
+  <QuestRewardItem> Rawhide Gloves </QuestRewardItem>
+  <Experience> 600 </Experience>
+</Quest>
+
+</QuestDB>
