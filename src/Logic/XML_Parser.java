@@ -45,7 +45,7 @@ public interface XML_Parser {
        return null;
     }
 
-    static List createAndSaveRecords(NodeList nodeList) {
+    static List<Quest> createAndSaveRecords(NodeList nodeList) {
        List<Quest> questList = new ArrayList<>(nodeList.getLength());
 
 
